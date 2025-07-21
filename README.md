@@ -1,35 +1,33 @@
-# 👋 Merhaba, ben Gürkan!
+# 👋 Selam, ben Gürkan!
 
 💻 **11. sınıf öğrencisi & Yazılım Yolculuğuna Yeni Başlayan**  
 🚀 Hedefim: Google, Microsoft, Meta gibi büyük teknoloji şirketlerinde çalışmak.  
-🎯 Planım: Adım adım öğrenmek, projelerimi GitHub’ta paylaşmak ve kendimi geliştirmek.
+🎯 Planım: Temelden başlayıp projelerle ilerlemek ve GitHub profilimi doldurmak.
 
 ---
 
-## 🚀 Şu An Neler Öğreniyorum?
-- Python (Temel seviyeden başlayarak projelerle ilerliyorum)
-- Git & GitHub kullanımı
-- Algoritma mantığı ve problem çözme
+## 🚀 Öğrenme Yolum
+- **Python**: Temeller + küçük projeler
+- **Web Geliştirme**: HTML, CSS, JavaScript (yakında)
+- **Algoritma Mantığı**: Problem çözme ve veri yapıları
 
 ---
 
 ## 🎯 2025 Hedeflerim
 - Python ile 10+ mini proje geliştirmek
-- GitHub’ta düzenli proje paylaşmak
-- HTML, CSS ve JavaScript öğrenerek web geliştirmeye adım atmak
-- İngilizce teknik kaynakları takip edebilmek
+- GitHub’a düzenli commit atarak portfolyo oluşturmak
+- Web geliştirme öğrenmeye başlamak
+- İngilizce teknik kaynakları rahatlıkla anlamak
 
 ---
 
 ## 📂 Projelerim
-- [python-basics](https://github.com/gurkan1475/python-basics) — **İlk Python kodlarım ve mini egzersizlerim**
+- [python-basics](https://github.com/gurkan1475/python-basics) — **İlk Python egzersizlerim**
 
 ---
 
-## 🌐 Bana Ulaşın
-- **E-posta:** gurkan14755@gmail.com
-- **Discord:** gurkan1475
-- **GitHub:** [github.com/gurkan1475](https://github.com/gurkan1475)
+## 📈 İstatistiklerim
+![Gürkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurkan1475&show_icons=true&theme=radical)
 
 ---
 
