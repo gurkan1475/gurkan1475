@@ -22,7 +22,9 @@
 ---
 
 ## 📂 Projelerim
-- [python-basics](https://github.com/gurkan1475/python-basics) — **İlk Python egzersizlerim**
+- [python-basics](https://github.com/gurkan1475/python-basics) — **İlk Python Egzersizlerim**
+- [python-egzersizler](https://github.com/gurkan1475/python-egzersizler) — **Egzersizlerimin Devamı**
+- [python-projeler](https://github.com/gurkan1475/python-projeler) — **Küçük Projelerim**
 
 ---
 
